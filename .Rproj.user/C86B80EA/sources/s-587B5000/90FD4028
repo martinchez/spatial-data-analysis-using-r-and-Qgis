@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594742943826.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "90FD4028",
+    "lastKnownWriteTime" : 1594743202,
+    "last_content_update" : 1594743202903,
+    "path" : "~/rstudio/spatial data analysis using qgis and r/modifying the crs of bands.R",
+    "project_path" : "modifying the crs of bands.R",
+    "properties" : {
+        "cursorPosition" : "13,10",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
