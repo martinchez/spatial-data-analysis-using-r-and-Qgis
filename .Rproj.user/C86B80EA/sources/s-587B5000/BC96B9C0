@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "177283743",
+    "hash" : "0",
     "id" : "BC96B9C0",
-    "lastKnownWriteTime" : 1594797894,
-    "last_content_update" : 1594797894353,
+    "lastKnownWriteTime" : 1594798000,
+    "last_content_update" : 1594798000643,
     "path" : "~/rstudio/spatial data analysis using qgis and r/plotting multiple bands as false color compisite.R",
     "project_path" : "plotting multiple bands as false color compisite.R",
     "properties" : {
-        "cursorPosition" : "14,29",
+        "cursorPosition" : "16,0",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
