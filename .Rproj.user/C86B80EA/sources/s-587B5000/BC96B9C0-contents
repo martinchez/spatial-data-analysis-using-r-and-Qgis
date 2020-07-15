@@ -7,3 +7,5 @@ bandslist<-list.files(pattern = ".tif", full.names = TRUE)
 #ploting false color image
 plotRGB(bandslist,r=3,g=2,b=1,stretch="hist")
 
+#applying linear stretch and scale
+plotRGB(bandslist,r=3,g=2,b=1,scale=800,stretch="Lin")
