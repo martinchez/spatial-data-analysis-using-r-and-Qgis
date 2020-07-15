@@ -13,3 +13,16 @@ stackr<-stack(bandslist)
 sumbands<- calc(stackr,sum)
 
 #creating a function
+#we want all values less than 100 equeted to NA
+
+func<- function(x){
+  x[x<300]<-NA
+  return(x)
+}
+#here we are applying calculation 
+#of the sunbands a custom function that we have created
+#which is func
+#where xis equestade to submbands
+appfunc<- calc(sumbands,func)
+
+
