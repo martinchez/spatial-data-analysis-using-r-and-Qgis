@@ -1,4 +1,5 @@
 ##reading multible files
+
 setwd("c:/jkajdks/kasjk/")
 library(raster)
 
@@ -24,5 +25,10 @@ func<- function(x){
 #which is func
 #where xis equestade to submbands
 appfunc<- calc(sumbands,func)
+
+
+
+
+```
 
 
