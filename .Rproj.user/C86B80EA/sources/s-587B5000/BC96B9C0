@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1594797187088.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1425690769",
+    "id" : "BC96B9C0",
+    "lastKnownWriteTime" : 1594797526,
+    "last_content_update" : 1594797526125,
+    "path" : "~/rstudio/spatial data analysis using qgis and r/plotting multiple bands as false color compisite.R",
+    "project_path" : "plotting multiple bands as false color compisite.R",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
